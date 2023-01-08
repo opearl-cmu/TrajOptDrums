@@ -17,7 +17,7 @@ Please see the attached License.txt file for rules on use and redistribution
 (Copyright (c) 2022 Owen Douglas Pearl via MIT License)
 
 When using this work, we ask that you please cite the relevant literature to properly credit the authors:
-[to be inserted soon]
+10.13140/RG.2.2.10096.33284
 
 ---------------------------------------------------------------------------------------------------------
 
